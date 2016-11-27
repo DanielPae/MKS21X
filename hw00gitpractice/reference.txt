@@ -1,0 +1,4 @@
+clone
+pull
+commit
+push
